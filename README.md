@@ -1,1 +1,1 @@
-# Transaction-and-Concurrency
+This repository contains a PowerPoint presentation that provides an introduction to Transaction Management and Concurrency Control in database systems. The presentation explores the fundamental concepts, protocols, and techniques used to ensure data consistency, integrity, and efficiency in multi-user database environments.
